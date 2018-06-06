@@ -1,0 +1,4 @@
+Credits:
+
+Arko - for making ARKOpack Interface, and for allowing me to make this patch
+CK2+ team - for making the mod this mod was made for
